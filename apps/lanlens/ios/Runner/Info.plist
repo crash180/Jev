@@ -66,5 +66,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>LanLens needs location access to read the name of the Wi-Fi network you are connected to. Your location is never stored or uploaded.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>LanLens scans your local network to find devices and check your router.</string>
 </dict>
 </plist>
